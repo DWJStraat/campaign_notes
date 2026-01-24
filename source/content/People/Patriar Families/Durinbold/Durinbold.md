@@ -1,0 +1,1 @@
+a Patriar family that has a presence in both Baldur's Gate and Waterdeep. Their wealth comes from mercenary companies, cattle ranches and sheep farms. They are also famous for their Durinbold cheese, which they make as part of "Durinbold & Oathoon", a joint venture between Patriar families.

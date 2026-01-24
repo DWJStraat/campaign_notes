@@ -1,0 +1,1 @@
+One of the most wealthy and extravagant families of Baldur's Gate, they work their influence upon the politics of the city.

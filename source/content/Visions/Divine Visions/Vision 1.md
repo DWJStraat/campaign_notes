@@ -1,0 +1,2 @@
+[[Kepeshkmolik Dorn]]
+Depths of Baldur's Gate contain Draconic death incarnate, a death of a gift to another crone. Wyrmsouls belong to the Reaver instead. Despite Faluzure's attempts, this Draconic death has not been accessed. Instead strands of death tell of others who access it, find the mockeries of the lost, follow their thread to the head purveyor of Draconic death. First, the thick forest realms contains ties to a fanged revenant.

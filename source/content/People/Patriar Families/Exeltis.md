@@ -1,0 +1,1 @@
+a Patriar family that has a brand of wine of their own. Their castle, near Daggerford, has a certain kind of grape, that is used to make this Exeltis Ice Wine. The family's wealth has diminished greatly, and their castle fallen into disrepair due to the actions of Feldran Exeltis, who's taken on shady loans to keep the castle standing.
