@@ -8,104 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34571229de914485",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9d213c159b0d62c9",
+            "id": "151394951f7c22cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dorn's notbeook/People/The Dwarves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Dwarves"
-            }
-          },
-          {
-            "id": "dc24248629e34f70",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "2c03eb96d42cfab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorn's notbeook/Visions/Divine Visions/Vision 3 return of the vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vision 3 return of the vision"
-            }
-          },
-          {
-            "id": "4801488294fe4b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorn's notbeook/Visions/Divine Visions/Vision 3 return of the vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vision 3 return of the vision"
-            }
-          },
-          {
-            "id": "ac4fc29f1f384c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents/Letter to Billie Vonner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Letter to Billie Vonner"
-            }
-          },
-          {
-            "id": "53c35b20b0159aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/The Vampire Coven/The Vampire Coven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Vampire Coven"
-            }
-          },
-          {
-            "id": "b8df996bfbc173e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorn's notbeook/TODO.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
@@ -114,35 +22,21 @@
             }
           },
           {
-            "id": "515de52135b7da66",
+            "id": "e94545c6f4364144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/My favorite band of misfits/My Favorite Band of Misfits.md",
+                "file": "Master Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Favorite Band of Misfits"
-            }
-          },
-          {
-            "id": "151394951f7c22cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visions/Divine Visions/Vision 4 Return of the Vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vision 4 Return of the Vision"
+              "title": "Master Timeline"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,37 +184,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "151394951f7c22cb",
+  "active": "e94545c6f4364144",
   "lastOpenFiles": [
+    "Documents/Plagues found in the dragon lair.md",
+    "Master Timeline.md",
+    "Documents/Letter to Auntie Ethel.md",
+    "TODO.md",
+    "Documents/Letter to Deanna.md",
+    "Documents/Letter to Billie Vonner.md",
+    "People/Unknown People/Auntie Ethel.md",
+    "People/Unknown People/Deanna.md",
+    "Documents/Letter from Caer.md",
+    "People/The Vampire Coven/Xanthas Woodspell.md",
+    "People/The Vampire Coven/The Vampire Coven.md",
+    "People/The Vampire Coven/Kirsten.md",
+    "People/The Vampire Coven/Davna Skann.md",
+    "People/The Vampire Coven/Gaarthrux.md",
+    "People/The Vampire Coven/Billie Vonner.md",
+    "People/The Vampire Coven/Altesu.md",
+    "Visions/Divine Visions/Vision 4 Return of the Vision.md",
     "Visions/Divine Visions/Vision 3 revenge of the vision.md",
     "Visions/Divine Visions/Vision 2 electric boogaloo.md",
     "Visions/Divine Visions/Vision 1.md",
-    "Master Timeline.md",
-    "People/The Vampire Coven/Billie Vonner.md",
-    "People/The Vampire Coven/Altesu.md",
-    "People/The Vampire Coven/Davna Skann.md",
-    "People/The Vampire Coven/Kirsten.md",
-    "People/The Vampire Coven/The Vampire Coven.md",
-    "People/The Vampire Coven/Xanthas Woodspell.md",
-    "TODO.md",
     "People/Patriar Families/Durinbold/Durinbold.md",
     "People/Patriar Families/Durinbold/Martha Durinbold.md",
-    "Visions/Divine Visions/Vision 4 Return of the Vision.md",
     "People/Cult of the Dragon.md",
     "People/Untitled",
     "People/My favorite band of misfits/Kepeshkmolik Dorn.md",
     "People/My favorite band of misfits/Eleanor.md",
     "People/My favorite band of misfits/Selwyn Mayfair.md",
-    "People/Banites/Banites.md",
-    "People/My favorite band of misfits/Varrik.md",
-    "People/My favorite band of misfits/Stafford.md",
-    "People/Flaming Fist/Flaming Fist.md",
     "People/Flaming Fist",
-    "People/Deities/Bahamut.md",
-    "People/Deities/Null.md",
-    "People/Deities/Bane.md",
     "People/Deities",
-    "People/Order of the Gauntlet/Caer.md",
     "Pasted image 20260124180713.png",
     "Locations",
     "People/The Vampire Coven",
