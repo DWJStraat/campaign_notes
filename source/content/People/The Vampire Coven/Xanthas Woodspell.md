@@ -7,10 +7,10 @@ Mentor of [[Eleanor]]
 > Spell DC 15
 > Wild magic Sorcerer
 > ## Known spells
-Enlarge/Reduce
-Counterspell
-Suggestion
-Polymorph
+> Enlarge/Reduce
+> Counterspell
+> Suggestion
+> Polymorph
 
 
 
