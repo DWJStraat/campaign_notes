@@ -50,9 +50,7 @@ Visited the [[Blushing Mermaid]]
 
 Fought a [[Doppelganger]]
 ### 4th
-```
-WE ARE HERE (12:00)
-```
+
 Interrogation of [[Doppelganger]]
 
 Meet with [[Martha Durinbold]]
@@ -60,6 +58,10 @@ Meet with [[Martha Durinbold]]
 Meeting with [[Gimmun Bearhammer]]
 
 Meeting up with Pereghost
+
+```
+WE ARE HERE (12:00)
+```
 
 Meeting with [[Beorg the Ogre]]
 ### 5th
