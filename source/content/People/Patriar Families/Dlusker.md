@@ -1,1 +1,0 @@
-a Patriar family that has fallen on hard times. They supported the wrong side when they backed the controversial Grand Duke Valarken in the past, and a large portion of their wealth disappeared in Waterdeep. They've been on hard times financially ever since.

@@ -3,16 +3,11 @@ Chicaamar Caerqul.png
 
 Gave us the following people to talk to:
 
-Contractor for The Lair -> Beorg the Ogre
-Did work on the walls of Baldurs Gate
-Trustworthy
-Available tomorrow 
+[[Beorg the Ogre]]
 
 [[Gimmun Bearhammer]]
 
 [[Martha Durinbold]]
-
-
 
 
 Mentioned that a subset of Flaming Fists, led by one Embersong, has specialised in plagues (plague patrol). They are working at the medical wing of the sea tower. Furthermore, a plague has been discovered among individuals of the lower city -> Alley Plague.

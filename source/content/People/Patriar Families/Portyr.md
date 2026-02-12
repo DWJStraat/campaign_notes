@@ -1,1 +1,4 @@
 The Patriar family that has a member on the Council, and mostly earns through shipping, investing and trading.
+
+Supports the party
+Family of the bride
