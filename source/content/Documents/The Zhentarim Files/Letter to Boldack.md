@@ -1,1 +1,5 @@
 ![[Pasted image 20260212192408.png]]
+
+Hey [[Boldack]], I swear this [[Zhentarim]] is the real deal. They're properly organised, properly equipped, and they're pretty much what and bandit would aspire to. And I just happen to have the ticket in there. My brother's gotten in and he says he can get us in too, and I swear this will pay extremely well. They say they've got a bunch of ranks too. Like you startas a Fang, and then work your way up to Wolf, which is a full-fledged member. Vipers are the officers of sorts, and Ardragons are the real deal, they're talented and are on step under the proper leaders, which are called the Dread Lords. I really need to get me a title like that. They're only eclipsed by the Lords of Zhentil Keep, which are supposedly in charge of it all in the end, and they are miles away from here. Zhentil Keep is all the way over in the Moonsealands.
+
+Your best bud,

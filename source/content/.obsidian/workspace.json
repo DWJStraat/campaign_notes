@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
+                "file": "Documents/The Zhentarim Files/Letter to Boldack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complaint Against the Flaming Fist"
+              "title": "Letter to Boldack"
             }
           },
           {
@@ -256,12 +256,13 @@
   },
   "active": "04f0b65feba8912d",
   "lastOpenFiles": [
-    "Documents/The Zhentarim Files/Letter to Nereza 3.md",
-    "Documents/The Zhentarim Files/Salrahn's Employment.md",
-    "Documents/The Zhentarim Files/Letter to Boldack.md",
-    "Documents/The Zhentarim Files/Letter to Nereza 2.md",
-    "Documents/The Zhentarim Files/Letter to Nereza.md",
     "Documents/The Zhentarim Files/Letter to Martha Woods.md",
+    "Documents/The Zhentarim Files/Salrahn's Employment.md",
+    "Documents/The Zhentarim Files/Letter to Nereza 3.md",
+    "Documents/The Zhentarim Files/Letter to Nereza.md",
+    "Documents/The Zhentarim Files/Letter to Nereza 2.md",
+    "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
+    "Documents/The Zhentarim Files/Letter to Boldack.md",
     "Documents/Letter to Deanna.md",
     "Documents/Letter to Billie Vonner.md",
     "Documents/Letter from Caer.md",
@@ -272,7 +273,6 @@
     "Documents/Eleanor's note.md",
     "Documents/Dwarven Contract.md",
     "Documents/Black Mass Scroll.md",
-    "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
     "Documents/The Zhentarim Files",
     "Economics spreadsheet.md",
     "Unsorted notes.md",

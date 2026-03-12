@@ -6,7 +6,7 @@
 
 **Written by [[Wendell Roseberg]]**
 
-"I believe that [[Salrahn]] has served us very well over the last few years, so well in fact that he has not outlived his usefulness, and our continued employment of him should be a high priority. His last mission was a rather spectacular failure, to be ended by a [[Stafford|a mere farmer's boy motivated by grief]]. Still, the assassination of [[Scarlet Vandran]] was a success, and shall be reported on as such. The summoning of [[Salrahn]] shall be conducted in a speedy fashion, by [[Helsik]] of Devil's Fee"
+"I believe that [[Salrahn]] has served us very well over the last few years, so well in fact that he has not outlived his usefulness, and our continued employment of him should be a high priority. His last mission was a rather spectacular failure, to be ended by a [[Stafford|mere farmer's boy motivated by grief]]. Still, the assassination of [[Scarlet Vandran]] was a success, and shall be reported on as such. The summoning of [[Salrahn]] shall be conducted in a speedy fashion, by [[Helsik]] of Devil's Fee"
 
 **Transcript of [[Thautoque]]'s promotion of a subordinate. Translated from Deep Speech.**
 
