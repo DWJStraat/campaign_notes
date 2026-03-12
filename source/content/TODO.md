@@ -1,9 +1,14 @@
-Talk to Beorg about hideout
+Intercept the plague carriers
 
-Talk to [[Cyr]] about the Banite attack on the lower class
+Rescue Lisax [[L]] from the Sea Tower.
 
-Talk to Martha [[Durinbold]] (political liaison)
+Expose [[Dlusker]]'s ties to the [[Fangs of Talona]]
 
-Return to the [[Blushing Mermaid]] for a health and safety inspection
+Check in on hideout progress (low priority)
 
+[[Stafford]]'s Whisper Thing
+
+Check in on the Skanns
+
+Investigate if [[Luumbac Sullasar]] and [[Sepitus Graham]] are doppelgangers
 
