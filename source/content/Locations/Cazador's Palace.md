@@ -1,0 +1,1 @@
+The fire was caused by [[The Vampire Coven]]. Flaming Fists were likely not the cause. This was done to hide their traces.

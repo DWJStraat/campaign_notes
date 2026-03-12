@@ -20,7 +20,7 @@ Translation:
 > 
 > The Rite of Profane Ascension will release you. Walk in the sun. Suffer not from hunger. Grow your power beyond anything you imagined. 
 > 
-> A pact has been made with the Lord of Hellfire. Deliver unto him seven thousand souls, each bearing an Infernal mark, and you shall be free of your chains. You shall know true power. 
+> A pact has been made with the [[Mephistopheles|Lord of Hellfire]]. Deliver unto him seven thousand souls, each bearing an Infernal mark, and you shall be free of your chains. You shall know true power. 
 > 
 > Deliver the souls. 
 > 

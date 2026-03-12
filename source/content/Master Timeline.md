@@ -9,7 +9,7 @@ Volo created the encyclopedic spectacles
 ## Hammer
 ### 7th
 [[Valaina Talbot]] sent [[Letter to Billie Vonner]] to [[Billie Vonner]]
-### 19th
+### 19th 
 [[Billie Vonner]] and [[Valaina Talbot]] discuss contract at the clerk's office
 ## Alturiak
 ### 28th
