@@ -1,7 +1,8 @@
-Contractor for The Lair
+![[Pasted image 20260212193334.png]]Contractor for The Lair
 
 Did work on the walls of Baldurs Gate
 
 Trustworthy
 
-Available on the 4th of Homerule
+Met at the [[Elfsong Tavern]]
+

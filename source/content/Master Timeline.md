@@ -1,3 +1,5 @@
+# 1489
+Volo created the encyclopedic spectacles
 
 # 1491
 ## Eleint
@@ -59,16 +61,31 @@ Meeting with [[Gimmun Bearhammer]]
 
 Meeting up with Pereghost
 
-```
-WE ARE HERE (12:00)
-```
-
 Meeting with [[Beorg the Ogre]]
+
+Dorn had [[Vision 5 The Nightmare]]
+
 ### 5th
+
+
+[[Eleanor]] went into the Feywild and saw a [[Rat with a gun]]
+
 [[Eleanor]]'s dinner date at the [[Blushing Mermaid]] (see [[Eleanor's note]])
+
+Fake Death of [[Xanthas Woodspell]] at the hands of [[My Favorite Band of Misfits]]
+
+[[Deanna]] meets up with an unknown [[Dlusker]] and [[Blightbreath]] about releasing their diseases.
 
 Health and safety inspection at the [[Blushing Mermaid]]
 
+Visit to [[Eleanor]]'s old base of operations to recover some magick items and [[Final note from Elanor's Mentor]]
+
+[[Varrik]] was doing a thing involving [[Nash]] and [[Zolana Dlusker]]. [[Kepeshkmolik Dorn]] was there.
+### 6th
+```
+WE ARE HERE 
+```
+[[The Vampire Coven]] meets up again
 ### 10th
 
 Elections

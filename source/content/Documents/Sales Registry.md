@@ -9,8 +9,8 @@ Found in the lair of Blightbreath
 | Export          | Mind Skinner                | [[L]] of [[The Guild]]            | 5000       | NO            |                                                            |
 | Export          | Assassin's Blood (10 doses) | D of the Fangs of Tiamat          | 1500       | NO            |                                                            |
 | Export          | Spider's Kiss               | S of the Mouths of T (Tiamat?)    | 1000       | NO            | Long distance, credit                                      |
-| Export          | Chokemist (2 doses)         | X of the Fangs of Tiamat          | 3000       | YES           |                                                            |
-| Export          | Shadow of Hope              | X of the Fangs of Tiamat          | 3000       | NO            |                                                            |
+| Export          | Chokemist (2 doses)         | X of the [[Fangs of Talona]]           | 3000       | YES           |                                                            |
+| Export          | Shadow of Hope              | X of the Fangs of Talona          | 3000       | NO            |                                                            |
 | Export          | Assassin's Blood (10 doses) | K of Xanathar League              | 1500       | NO            |                                                            |
 | Export          | Shadow of Hope              | D of Xanathar League              | 3000       | NO            |                                                            |
 | Export          | Red Leak (5 doses)          | X of the Fangs of Tiamat          | 1250       | NO            |                                                            |

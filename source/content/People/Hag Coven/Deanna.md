@@ -1,3 +1,4 @@
+![[Pasted image 20260212215923.png]]
 Night Hag
 
 Knows [[Auntie Ethel]]
@@ -11,3 +12,7 @@ Most ambitious and outgoing
 Departed for the Material Plane
 
 Previously a member of Little Wolfsbane, a commune. 
+
+Daughter of Tolona
+
+Has the gift of plague

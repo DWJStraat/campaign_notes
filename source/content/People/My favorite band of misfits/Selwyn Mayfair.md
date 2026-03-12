@@ -7,3 +7,5 @@ Member of the Mayfair family
 Bahamut and Null are currently in a bit of a family feud, so unclear how to proceed
 
 Does receive visions. Good lad.
+
+Childe of Garro
