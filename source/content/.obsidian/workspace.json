@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Salrahn's Employment.md",
+                "file": "Unsorted notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salrahn's Employment"
+              "title": "Unsorted notes"
+            }
+          },
+          {
+            "id": "31ff31fc78eccc0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Complaint Against the Flaming Fist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complaint Against the Flaming Fist"
+            }
+          },
+          {
+            "id": "e0caa5a69050f2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Dwarven Contract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dwarven Contract"
             }
           },
           {
@@ -228,11 +256,16 @@
   },
   "active": "04f0b65feba8912d",
   "lastOpenFiles": [
+    "Master Timeline.md",
+    "Documents/Dwarven Contract.md",
+    "Documents/Complaint Against the Flaming Fist.md",
+    "Unsorted notes.md",
+    "Documents/Salrahn's Employment.md",
+    "Documents/Individuals of Significance.md",
+    "Pasted image 20260312221551.png",
     "Documents/Xanthas' Stageplay Note.md",
     "Documents/Black Mass Scroll.md",
-    "Documents/Complaint Against the Flaming Fist.md",
     "Documents/Eleanor's note.md",
-    "Documents/Dwarven Contract.md",
     "Documents/Encrypted note from Xanthas to Eleanor.md",
     "Documents/Final note from Elanor's Mentor.md",
     "Documents/Letter from Caer.md",
@@ -242,19 +275,14 @@
     "Documents/Letter to Deanna.md",
     "Documents/Letter to Martha Woods.md",
     "Documents/Letter to Nereza 2.md",
-    "Documents/Salrahn's Employment.md",
     "Documents/Sales Registry.md",
     "Diseases/Fairy Plague.md",
-    "Unsorted notes.md",
     "Visions/A message from Gretchen to Selwyn.md",
-    "Master Timeline.md",
     "Documents/Plagues found in the dragon lair.md",
     "Documents/Letter to Nereza 3.md",
     "Documents/Letter to Nereza.md",
     "People/Zhentarim/Cyr.md",
     "Pasted image 20251113211327.png",
-    "People/The Vampire Coven/Gaarthrux.md",
-    "People/The Vampire Coven/Altesu.md",
     "Pasted image 20250814215540.png",
     "Pasted image 20260305210609.png",
     "Pasted image 20260305195643.png",
@@ -266,7 +294,6 @@
     "Pasted image 20260212193334.png",
     "People/Green Serpent",
     "Pasted image 20260212192408.png",
-    "Pasted image 20260212192356.png",
     "People/Summer Court/Untitled.canvas",
     "People/Summer Court",
     "People/Patriar Families/Ravenguard",

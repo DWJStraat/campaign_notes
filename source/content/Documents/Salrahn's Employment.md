@@ -17,3 +17,6 @@
 "[[Manshoon]], [[Salrahn]] has been quite a wondrous subordinate. While [[Cyr]] is focused on the more militaristic aspect of the [[Zhentarim]]. [[Salrahn]] has proven invaluable in assassination, as was shown through his work with [[Scarlet Vandran]]. While he does not possess the many eyes necessary for a Dread Lord's tasks, to add another set of eyes, in another place, is invaluable."
 
 
+
+
+

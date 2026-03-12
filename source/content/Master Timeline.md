@@ -2,26 +2,26 @@
 Volo created the encyclopedic spectacles
 
 # 1491
-## Eleint
-### 2nd
+## Eleint, 1491
+### 2nd of Eleint, 1491
 [[Letter to Auntie Ethel]] was sent from [[Deanna]] to [[Auntie Ethel]]
 # 1492
-## Hammer
-### 7th
+## Hammer, 1492
+### 7th of Hammer, 1492
 [[Valaina Talbot]] sent [[Letter to Billie Vonner]] to [[Billie Vonner]]
-### 19th 
+### 19th of Hammer, 1492
 [[Billie Vonner]] and [[Valaina Talbot]] discuss contract at the clerk's office
-## Alturiak
-### 28th
+## Alturiak, 1492
+### 28th of Alturiak, 1492
 Deadline for discussion of contract between [[Billie Vonner]] and [[Valaina Talbot]]
 
 # 1493
-## Kythorn
-### 19th
+## Kythorn, 1493
+### 19th of Kythorn, 1493
 [[My Favorite Band of Misfits]] gathered for the first time
 
 Marriage of Igan Eomane and Adelaide Portyr at the Homesick Albatros
-### 30th
+### 30th of Kythorn, 1493
 Received the [[Letter from Caer]]
 ## Flamerule
 ### 1st

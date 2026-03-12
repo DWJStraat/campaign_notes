@@ -19,3 +19,11 @@ The Zhentarim attacked the Banites repeatedly.
 Cyr does not like the Zhent possibly helping the Fangs
 
 Cyr is not involved in [[A message from Gretchen to Selwyn]]
+
+[[Salrahn]] is still an active Zhent, but under a different Dread Lord. If we can kill him, Cyr would be happy.
+
+Cyr is not responsible for the murder described in [[Salrahn's Employment]]
+
+Salrahn is a fiend, seductive variety. Incubus/Succubus.
+
+Thautoque is another Dread Lord
