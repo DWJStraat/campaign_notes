@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsorted notes.md",
+                "file": "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unsorted notes"
+              "title": "Complaint Against the Flaming Fist"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Complaint Against the Flaming Fist.md",
+                "file": "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
                 "mode": "source",
                 "source": false
               },
@@ -256,32 +256,33 @@
   },
   "active": "04f0b65feba8912d",
   "lastOpenFiles": [
-    "Master Timeline.md",
-    "Documents/Dwarven Contract.md",
-    "Documents/Complaint Against the Flaming Fist.md",
-    "Unsorted notes.md",
-    "Documents/Salrahn's Employment.md",
-    "Documents/Individuals of Significance.md",
-    "Pasted image 20260312221551.png",
-    "Documents/Xanthas' Stageplay Note.md",
-    "Documents/Black Mass Scroll.md",
-    "Documents/Eleanor's note.md",
-    "Documents/Encrypted note from Xanthas to Eleanor.md",
-    "Documents/Final note from Elanor's Mentor.md",
+    "Documents/The Zhentarim Files/Letter to Nereza 3.md",
+    "Documents/The Zhentarim Files/Salrahn's Employment.md",
+    "Documents/The Zhentarim Files/Letter to Boldack.md",
+    "Documents/The Zhentarim Files/Letter to Nereza 2.md",
+    "Documents/The Zhentarim Files/Letter to Nereza.md",
+    "Documents/The Zhentarim Files/Letter to Martha Woods.md",
+    "Documents/Letter to Deanna.md",
+    "Documents/Letter to Billie Vonner.md",
     "Documents/Letter from Caer.md",
     "Documents/Letter to Auntie Ethel.md",
-    "Documents/Letter to Billie Vonner.md",
-    "Documents/Letter to Boldack.md",
-    "Documents/Letter to Deanna.md",
-    "Documents/Letter to Martha Woods.md",
-    "Documents/Letter to Nereza 2.md",
+    "Documents/Individuals of Significance.md",
+    "Documents/Final note from Elanor's Mentor.md",
+    "Documents/Encrypted note from Xanthas to Eleanor.md",
+    "Documents/Eleanor's note.md",
+    "Documents/Dwarven Contract.md",
+    "Documents/Black Mass Scroll.md",
+    "Documents/The Zhentarim Files/Complaint Against the Flaming Fist.md",
+    "Documents/The Zhentarim Files",
+    "Economics spreadsheet.md",
+    "Unsorted notes.md",
+    "Master Timeline.md",
+    "Pasted image 20260312221551.png",
+    "Documents/Xanthas' Stageplay Note.md",
     "Documents/Sales Registry.md",
     "Diseases/Fairy Plague.md",
     "Visions/A message from Gretchen to Selwyn.md",
     "Documents/Plagues found in the dragon lair.md",
-    "Documents/Letter to Nereza 3.md",
-    "Documents/Letter to Nereza.md",
-    "People/Zhentarim/Cyr.md",
     "Pasted image 20251113211327.png",
     "Pasted image 20250814215540.png",
     "Pasted image 20260305210609.png",
@@ -300,7 +301,6 @@
     "People/Patriar Families/Sashenstar",
     "People/Patriar Families/Dlusker",
     "People/Patriar Families/Caldwell",
-    "Untitled.base",
-    "People/Patriar Families/Eltan"
+    "Untitled.base"
   ]
 }
