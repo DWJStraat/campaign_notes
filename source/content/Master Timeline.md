@@ -78,6 +78,8 @@ Fake Death of [[Xanthas Woodspell]] at the hands of [[My Favorite Band of Misfit
 
 Health and safety inspection at the [[Blushing Mermaid]]
 
+Met up with [[Minsc]] and [[Boo]], representatives of [[The Guild]]
+
 Visit to [[Eleanor]]'s old base of operations to recover some magick items and [[Final note from Elanor's Mentor]]
 
 [[Varrik]] was doing a thing involving [[Nash]] and [[Zolana Dlusker]]. [[Kepeshkmolik Dorn]] was there.
