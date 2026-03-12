@@ -14,4 +14,4 @@ As it speaks, I can see a glint of something shiny in it's maw. It uses it's ton
 
 ----
 
-I woke up with a Shadowbloom.
+I woke up with a [[Shadowbloom]].

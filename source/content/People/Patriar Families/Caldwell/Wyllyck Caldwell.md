@@ -1,3 +1,5 @@
+Member of [[Caldwell]]
+
 Organized the Ball for his wife
 
 His wife is undead (vampire?)
