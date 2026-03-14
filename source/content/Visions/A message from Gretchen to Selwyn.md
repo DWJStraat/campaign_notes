@@ -6,11 +6,17 @@ Blood, blood and gore. The **mists** find themselves descending upon the **hall*
 Focus lies on the following words:
 
 Mists
+
 Hall
+
 Personal
+
 Hostages
+
 Sweet
+
 Vampiric
+
 Schedule
 
 
@@ -21,6 +27,9 @@ Speculation:
 This most likely pertains to the plan to spread the plagues.
 
 Current interpretation:
-[[Garro Skann]] will be spreading the [[Consecrated Mists]] at the [[Hall of Wonders]]
+
+[[Garro Skann]] will be spreading the [[Consecrated Mists]] at the [[Hall of Wonders]] / 
+
 [[Davna Skann]] will take hostages, and release an unknown disease (sweet?) through it.
+
 [[Altesu]] will release the Living Dragon Plague at population centers.
