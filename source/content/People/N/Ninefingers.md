@@ -1,0 +1,3 @@
+![[Pasted image 20260205212136.png]]
+
+Leader of [[The Guild]]

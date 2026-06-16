@@ -1,0 +1,1 @@
+The Patriar family that was in league with the Iron Throne in the past. Rumours go around about their shady ties to merchants. They have a hand in shipping, mining and textiles.

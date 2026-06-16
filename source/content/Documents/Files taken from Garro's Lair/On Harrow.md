@@ -1,0 +1,12 @@
+![[Pasted image 20260423202449.png|697]]
+
+
+So [[Garro Skann|Garro]], I've received word on a particularly powerful plague that [[Talona]] desires you to perfect, or at least replicate. But it comes with an individual who wishes to retain some degree of autonomy in his operation, and keep some stock of the plague if at all possible. View him not as a nuisance or a fool, he's a highly capable assassin. He is a worshipper of [[Zehir]], and seeks to find a way to exterminate Dragons through [[Living Dragon Plague|this plague]]. He's already used it once, though with collateral damage and the plague was sluggish. I need you to shake it out of its sleep, and increase our stock. I've arranged a meeting with [[People/A/Altesu Ethlu|the assassin]], discuss your terms. He's called [[People/A/Altesu Ethlu|Altesu Ethlu]], a Deathfang of [[Zehir]]. Oh and he's got deals with a Clan of [[Tymanther]], do not interfere with those, and let him handle them.
+
+---
+
+Baldur's Gate is like a fruit ripe for the plucking, and our efforts are rewarded time and time again. [[Harrow|A capable individual]] has joined our side, though I cannot say who. Merely that the Lady has had her eye on her for a while. Just refer to her as [[Harrow]] if you need to. I do need to ask a favour of you though. To ensure our investment in Baldur's Gate's future, I'll need you to capitalise on an opportunity. Someone called [[Malqui Caldwell|Malqui]], of the [[Caldwell]] family, is currently suffering from many issues related to her old age. I need her to die by your fang. Her complete obedience and commitment is required, as she is to keep up the ruse that she is a frail creature. She has to report the daily happenings of the [[Caldwell]] family, and you must immediately report these to me, and only me. This is sensitive information, and should be handled as such.
+
+---
+
+[[Harrow]]'s work has paid off, and small amounts of cures for a variety of the plagues that are planned to hit Baldur's Gate have been produced. These will be of great interest to our partners, and although they can lay claim to these samples. They are to be handled with extreme care. Any of these falling into the wrong hands can spell disaster to our cause. I've asked Harrow to introduce a failsafe into the substance, and we are to be extremely careful in handling their production and distribution. I trust that you can responsibly handle this substance when required?

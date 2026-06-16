@@ -1,0 +1,1 @@
+Assassin of the [[Zhentarim]]

@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "422a7ed5d3c71492",
+    "type": "split",
+    "children": [
+      {
+        "id": "057bb968adf31dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db38d87ea6f4ec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/People/Banites/Nash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nash"
+            }
+          },
+          {
+            "id": "397077a6c10e8a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/People/Banites/Karas Chembryl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karas Chembryl"
+            }
+          },
+          {
+            "id": "3f51d61f1db4aa70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Untitled/Shadowbloom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadowbloom"
+            }
+          },
+          {
+            "id": "91a3bfcbd6d12f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Unsorted notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsorted notes"
+            }
+          },
+          {
+            "id": "22eecbc83aef6f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Documents/Letter to Billie Vonner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Letter to Billie Vonner"
+            }
+          },
+          {
+            "id": "16c00f16fbcf59be",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "source/content/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "90d4faeebdaee3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/People/Patriar Families/Dlusker/Zolana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zolana"
+            }
+          },
+          {
+            "id": "d4cd3a6e53038665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volo's Encyclopedic Glasses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volo's Encyclopedic Glasses"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dee77221455b95f",
+    "type": "split",
+    "children": [
+      {
+        "id": "052fa5bb4bddac9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dbade5e40e975b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3853f2339e654dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af03300afa870f6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02a956b9b1e5f313",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf661a10f5ef48bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fea3a44f02d8df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/content/Master Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Master Timeline"
+            }
+          },
+          {
+            "id": "fc142076d43c872d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/content/Master Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Master Timeline"
+            }
+          },
+          {
+            "id": "dae08cc5d871b535",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c946e3aece034bc4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f5bdc0a763902bb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/content/Master Timeline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Master Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "16c00f16fbcf59be",
+  "lastOpenFiles": [
+    "source/content/Untitled.md",
+    "source/content/Economics spreadsheet.md",
+    "source/content/Untitled.base",
+    "source/content/Pasted image 20260311193313.png",
+    "source/content/Documents/Letter to Billie Vonner.md",
+    "source/content/Documents/Letter to Auntie Ethel.md",
+    "source/content/Master Timeline.md",
+    "source/content/People/Patriar Families/Dlusker/Zolana.md",
+    "source/content/Documents/Letter from Caer.md",
+    "source/content/Documents/Final note from Elanor's Mentor.md",
+    "source/content/Documents/Encrypted note from Xanthas to Eleanor.md",
+    "source/content/Documents/Eleanor's note.md",
+    "source/content/Documents/Dwarven Contract.md",
+    "source/content/Documents/Complaint Against the Flaming Fist.md",
+    "source/content/Documents/Black Mass Scroll.md",
+    "source/content/People/The Vampire Coven/Cazador Szarr.md",
+    "source/content/Pasted image 20260312212559.png",
+    "source/content/Documents/Salrahn's Employment.md",
+    "source/content/Documents/Xanthas' Stageplay Note.md",
+    "source/content/Documents/Plagues found in the dragon lair.md",
+    "source/content/Documents/Sales Registry.md",
+    "source/content/People/Unknown People/Scarlet Vandran.md",
+    "source/content/People/My favorite band of misfits/Stafford.md",
+    "source/content/People/My favorite band of misfits/Varrik.md",
+    "source/content/People/Patriar Families/Eltan/Harribak Eltan.md",
+    "source/content/People/Patriar Families/Dlusker/Ariaza.md",
+    "source/content/People/Patriar Families/Dlusker/Dlusker.md",
+    "source/content/People/The Vampire Coven/Altesu.md",
+    "source/content/People/Banites/Karas Chembryl.md",
+    "source/content/Pasted image 20260312195315.png",
+    "source/content/Pasted image 20260312195243.png",
+    "source/content/Pasted image 20260312195150.png",
+    "source/content/People/Patriar Families/Dlusker/Untitled",
+    "source/content/Pasted image 20260311212704.png",
+    "source/content/Pasted image 20260311204346.png",
+    "source/content/Pasted image 20260305210609.png",
+    "source/content/Pasted image 20260305195643.png",
+    "source/content/People/Cult of the Dragon",
+    "source/content/People/Untitled"
+  ]
+}
