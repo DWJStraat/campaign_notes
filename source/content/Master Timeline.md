@@ -65,7 +65,7 @@ Meeting with [[Beorg the Ogre]]
 
 Dorn had [[Vision 5 The Nightmare]]
 
-### 5th
+### 5th of Flamerule, 1493
 
 
 [[Eleanor]] went into the Feywild and saw a [[Rat with a gun]]
@@ -82,12 +82,45 @@ Met up with [[Minsc]] and [[Boo]], representatives of [[The Guild]]
 
 Visit to [[Eleanor]]'s old base of operations to recover some magick items and [[Final note from Elanor's Mentor]]
 
-[[Varrik]] was doing a thing involving [[Nash]] and [[Zolana Dlusker]]. [[Kepeshkmolik Dorn]] was there.
+[[Varrik]] was doing a thing involving [[Nash]] and [[People/Z/Zolana Dlusker]]. [[Kepeshkmolik Dorn]] was there.
+
+[[Eleanor]] met [[Ariaza Dlusker]], and got informed that her debts have been bought up
+
+[[My Favorite Band of Misfits]] met [[Luumbac Sullasar]] and [[Sepitus Graham]], being made aware that they were taken off the case
+
+[[Selwyn Mayfair]] got [[A message from Gretchen to Selwyn]]
+
+[[Kepeshkmolik Dorn]] prayed to Null to confirm the vision
+
+The [[Consecrated Mists]] were released at [[High Hall]]
+
+Attack on the Wererat Sanctuary
 ### 6th
+Vison 6
+
+
+
+[[The Vampire Coven]] meets up again
+
+Celwyn's dad died (gentle reposed)
+
+## 7th of Flamerule, 1493
+
+## 8th of Flamerule, 1493
+
 ```
 WE ARE HERE 
 ```
-[[The Vampire Coven]] meets up again
+
+
 ### 10th
 
 Elections
+
+### 12th of Flamerule, 1493
+
+Deadline Eleanor Debt
+
+## 30th of Flamerule, 1493
+
+Deadline paying for the hideout

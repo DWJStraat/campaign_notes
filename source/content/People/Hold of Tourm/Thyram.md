@@ -1,1 +1,0 @@
-Incompetent dwarf captain

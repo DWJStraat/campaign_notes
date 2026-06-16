@@ -9,5 +9,15 @@ Transmitted through blood. But it is alive, so it can move itself to enter a hos
 
 Could bypass disease immunity.
 
+Deals a TON of necrotic damage
+
+19 > DC > 14
+
+It is affected as a creature. Lesser Restoration will only suspend the disease.
+
+Draconic creatures are Vulnerable
+
+Stored at the base of Duskhawk Hill, Northeast of Tumbledown
+
 > [!NOTE] More information
 > https://forgottenrealms.fandom.com/wiki/Plague_of_Dragons (?)

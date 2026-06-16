@@ -32,4 +32,4 @@ Current interpretation:
 
 [[Davna Skann]] will take hostages, and release an unknown disease (sweet?) through it.
 
-[[Altesu]] will release the Living Dragon Plague at population centers.
+[[Salrahn]] will release the Living Dragon Plague at population centers.

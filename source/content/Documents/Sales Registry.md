@@ -1,22 +1,22 @@
 Found in the lair of Blightbreath
 
-| Import / export | Item                        | Client                            | Cost in GP | Accounted for | Notes                                                      |
-| --------------- | --------------------------- | --------------------------------- | ---------- | ------------- | ---------------------------------------------------------- |
-| Export          | Sample of the Alley Plague  | [[Zolana Dlusker]] of the Banites | 3000       | NO            | No known cure. Found within the city's lower class<br><br> |
-| Export          | Midnight Tears              | G (Gimmun?) of the Green Serpent  | 1500       | NO            | Emergency requisition                                      |
-| Export          | Red Leak (10 doses)         | [[Cyr]] of the [[Zhentarim]]      | 2500       | NO            | Some used                                                  |
-| Export          | Assassin's Blood (30 doses) | [[Ninefingers]] of [[The Guild]]  | 4500       | NO            | Bought 5 days before the masquerade                        |
-| Export          | Mind Skinner                | [[L]] of [[The Guild]]            | 5000       | NO            |                                                            |
-| Export          | Assassin's Blood (10 doses) | D of the Fangs of Tiamat          | 1500       | NO            |                                                            |
-| Export          | Spider's Kiss               | S of the Mouths of T (Tiamat?)    | 1000       | NO            | Long distance, credit                                      |
-| Export          | Chokemist (2 doses)         | X of the [[Fangs of Talona]]           | 3000       | YES           |                                                            |
-| Export          | Shadow of Hope              | X of the Fangs of Talona          | 3000       | NO            |                                                            |
-| Export          | Assassin's Blood (10 doses) | K of Xanathar League              | 1500       | NO            |                                                            |
-| Export          | Shadow of Hope              | D of Xanathar League              | 3000       | NO            |                                                            |
-| Export          | Red Leak (5 doses)          | X of the Fangs of Tiamat          | 1250       | NO            |                                                            |
-| Export          | Midnight Tears              | [[M]] of the [[Zhentarim]]        | 1500       | NO            |                                                            |
-| Export          | Purple worm poison          | H of the Fists                    | 2000       | YES           |                                                            |
-| Import          | Hellwasp Venom (100 doses)  | A of Avernus                      | 5000       | NO            |                                                            |
+| Import / export | Item                        | Client                                            | Cost in GP | Accounted for | Notes                                                      |
+| --------------- | --------------------------- | ------------------------------------------ | ---------- | ------------- | ---------------------------------------------------------- |
+| Export          | Sample of the Alley Plague  | [[People/Z/Zolana Dlusker\|Z]] of the [[Banites]] | 3000       | NO            | No known cure. Found within the city's lower class<br><br> |
+| Export          | Midnight Tears              | G of the [[Green Serpents\|Green Serpent]]        | 1500       | NO            | Emergency requisition                                      |
+| Export          | Red Leak (10 doses)         | [[Cyr\|C]] of the [[Zhentarim]]                   | 2500       | NO            | Some used                                                  |
+| Export          | Assassin's Blood (30 doses) | [[Ninefingers\|N]] of [[The Guild]]               | 4500       | NO            | Bought 5 days before the masquerade                        |
+| Export          | Mind Skinner                | [[Lisax\|L]] of [[The Guild]]                     | 5000       | NO            |                                                            |
+| Export          | Assassin's Blood (10 doses) | D of the [[Fangs of Talona]]                      | 1500       | NO            |                                                            |
+| Export          | Spider's Kiss               | S of the Mouths of T (Tiamat?)                    | 1000       | NO            | Long distance, credit                                      |
+| Export          | Chokemist (2 doses)         | X of the [[Fangs of Talona]]                      | 3000       | YES           |                                                            |
+| Export          | Shadow of Hope              | X of the [[Fangs of Talona]]                      | 3000       | NO            |                                                            |
+| Export          | Assassin's Blood (10 doses) | K of Xanathar League                              | 1500       | NO            |                                                            |
+| Export          | Shadow of Hope              | D of Xanathar League                              | 3000       | NO            |                                                            |
+| Export          | Red Leak (5 doses)          | X of the [[Fangs of Talona]]                      | 1250       | NO            |                                                            |
+| Export          | Midnight Tears              | [[Manshoon\|M]] of the [[Zhentarim]]              | 1500       | NO            |                                                            |
+| Export          | Purple worm poison          | H of the Fists                                    | 2000       | YES           |                                                            |
+| Import          | Hellwasp Venom (100 doses)  | A of Avernus                                      | 5000       | NO            |                                                            |
 
 Total items
 

@@ -1,6 +1,6 @@
 Intercept the plague carriers
 
-Rescue Lisax [[L]] from the Sea Tower.
+Rescue Lisax [[Lisax]] from the Sea Tower.
 
 Expose [[Dlusker]]'s ties to the [[Fangs of Talona]]
 

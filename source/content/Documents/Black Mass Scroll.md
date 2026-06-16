@@ -33,3 +33,7 @@ Translation:
 > Nunc volo potestatem quam pollicitus es mihi.
 
 When invoked, the caster feels an insane heat, before a cold
+
+When invoked on [[Davna Skann]], she was sent to hell, and a voice said:
+
+"[[Mephistopheles|The Archduke of Cania]] sends his thanks"

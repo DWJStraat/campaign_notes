@@ -12,7 +12,7 @@ Some of these bones start to pile up, growing to hills, then mountains. Eventual
 mountains, I see larger bones, nonhumanoid, on top of the mountains. Belonging to dragons of 
 quite a size, between Adult and Ancient size. This seems to be a green dragon. Or, was. 
 
-As I look closer at it, there are flashes in my vision of men in masks in a forest, chanting. The masks are members of the [[Cult of the Dragon]]. The ritual is the Ritual of Ascension, needed to become a 
+As I look closer at it, there are flashes in my vision of men in masks in a forest, chanting. The masks are members of the [[Groups/Religious/Cult of the Dragon]]. The ritual is the Ritual of Ascension, needed to become a 
 Dracolich. However, the ritual seems to be failed, as I see dead cult members and a dead dragon. 
 Then, the visions leave me at a mountain of skulls and bones. The bodies decay in an incredibly 
 fast way, until only the mountain is left. After a minute, I see a green glow in the dragon's eye 

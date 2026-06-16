@@ -4,7 +4,7 @@ I am writing this as I have realised that I am in over my head, yet I see no way
 
 I know **[[Cazador Szarr|CAZADOR]]** has died, otherwise his **SPAWN** would not have the **FREEDOM** to behave out of order. This also means they are dangerous and almost rabid, in their attempt to escape the complex, and I'll likely be a **VICTIM** if I do not find a hiding spot where I can last. 
 
-What you might be able to use against these creatures, if you find the records, is the **CONTRACT** **[[Cazador Szarr|CAZADOR]]** had with **[[MEPHISTOPHELES]]**. These **SPAWN** were to be **SACRIFICES** to him, maybe they can still be if they prove to be threats to Baldur's Gate. 
+What you might be able to use against these creatures, if you find the records, is the **CONTRACT** **[[Cazador Szarr|CAZADOR]]** had with **[[Mephistopheles]]**. These **SPAWN** were to be **SACRIFICES** to him, maybe they can still be if they prove to be threats to Baldur's Gate. 
 
 Find the **RECORD** chambers of the palace, and pray that they are still whole and not consumed to the fires that I've seen breaking out. 
 
