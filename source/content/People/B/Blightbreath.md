@@ -12,4 +12,3 @@ Was in the vaults of the counting house because Mother, Rotwind, lives there.
 
 Was flying from the counting house to the Dlusker family home, but was cornered in an allyway in the Steeps.
 
-Rotwind was a green dragon in life, but in death became... Something else...

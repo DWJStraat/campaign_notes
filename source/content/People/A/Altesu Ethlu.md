@@ -5,6 +5,8 @@ Deathfang of [[Zehir]]
 
 Injected [[Kepeshkmolik Dorn|me]] with the [[Living Dragon Plague]]
 
+Assassinated in an attack on Sea Tower
+
 > [!Mechanical Knowledge]
 > Artificer? Arcane Archer?
 > To-hit: +8

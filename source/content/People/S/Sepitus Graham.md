@@ -7,3 +7,5 @@ Investigator of the [[Flaming Fist]]
 Gloryhound
 
 Ex-coworker of [[Eleanor]]
+
+Partner of [[Luumbac Sullasar]]

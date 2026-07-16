@@ -9,3 +9,5 @@ May be a good conversation partner, can be reached at Sea Tower.
 Somewhat measured, [[Eleanor]]'s ex-co-worker
 
 Clanless
+
+Partner of [[Sepitus Graham]]

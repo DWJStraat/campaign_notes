@@ -11,3 +11,5 @@ Soft voice
 
 
 Was present at the [[Consecrated Mists]] attack on [[High Hall]]
+
+[[Stafford]]'s situationship

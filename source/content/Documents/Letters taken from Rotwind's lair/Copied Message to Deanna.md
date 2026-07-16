@@ -1,0 +1,6 @@
+My [[Deanna]] dearest, 
+
+They have been acclimating well to the research parameters I have set out for them. [[Malrus Bloodbeard]] does not know the little strings that I have tied to him, and how I pull them just the right way, after all, no one expects much danger from a decrepit skeleton. But alas now that I have been freed, they have been proven to underestimate me quite thoroughly. Decades of research from [[Malrus Bloodbeard|Malrus]] now gives us the edge in utilising this plague to the fullest extent. We are now able to put the research to work, to separate the strains into two workable categories, especially for the [[Vkriss]] Clan, and the Knights of the Five-Thorned Rose. We can further develop these strains to have necromantic effects akin to raising the dead, and if further processed, eventually Lichdom. Or in the loyalist's case, the purification to affect just True Dragons. 
+The plague shall develop strains beyond even our wildest dreams, our Lady must have known when she set us upon this path. 
+
+Yours truly, Rotwind

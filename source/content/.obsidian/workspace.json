@@ -4,86 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "b2003f850a1c0ac7",
+        "id": "e2b075af234d1e76",
         "type": "tabs",
         "children": [
           {
-            "id": "34112ce525394af6",
+            "id": "bde13e452283cd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Political/Tymanther/Clans/Kepeshkmolik.md",
+                "file": "Master Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kepeshkmolik"
+              "title": "Master Timeline"
             }
           },
           {
-            "id": "ba03a453bc255c91",
+            "id": "46bb2c8a2c6ee902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/T/Thautoque.md",
+                "file": "People/A/Ariaza Dlusker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thautoque"
+              "title": "Ariaza Dlusker"
             }
           },
           {
-            "id": "0185182794236502",
+            "id": "94e812b84e2e9c2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/R/Rotwind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rotwind"
-            }
-          },
-          {
-            "id": "45ab40eec938836a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Groups/Political/Baldur's Gate/Patriar Families/Rakkath Glitterbeard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rakkath Glitterbeard"
-            }
-          },
-          {
-            "id": "e94897bdcadf25b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/G/Gimmun Bearhammer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gimmun Bearhammer"
-            }
-          },
-          {
-            "id": "5aa17bc2d4e6a4eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/The Vampire Coven/Altesu Ethlu.md",
+                "file": "People/A/Altesu Ethlu.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +49,7 @@
               "title": "Altesu Ethlu"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eleanor",
+                "query": "roseb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/R/Rotwind.md",
+                "file": "Master Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rotwind"
+              "title": "Backlinks for Master Timeline"
             }
           },
           {
@@ -239,56 +196,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0185182794236502",
+  "active": "bde13e452283cd58",
   "lastOpenFiles": [
-    "Visions/Divine Visions/Vision 7.md",
-    "Visions/Divine Visions/Vision 3 revenge of the vision.md",
-    "Visions/Divine Visions/Vision 4 Return of the Vision.md",
-    "Visions/Divine Visions/Vision 5 The Nightmare.md",
-    "Visions/Divine Visions/Vision 6 Visions of Politics.md",
-    "Visions/Infernal Visitation.md",
-    "Visions/Memories.md",
-    "Visions/Tarot Readings.md",
-    "People/V/Vazuth.md",
+    "People/M/Martha Durinbold.md",
+    "Master Timeline.md",
+    "LOOT/Dragon Lair.md",
+    "Documents/Letters taken from Rotwind's lair/Gurstig's Worries.md",
+    "People/Z/Zolana Dlusker.md",
+    "Documents/Eleanor Debt Note.md",
+    "People/A/Ariaza Dlusker.md",
+    "People/L/Luumbac Sullasar.md",
+    "People/A/Altesu Ethlu.md",
+    "Documents/From the desk of one Kepeshkmolik Dorn/Eleanor Debt Note.md",
+    "People/S/Sepitus Graham.md",
+    "People/V/Valaina Talbot.md",
+    "People/V/Vkriss Kaldir.md",
+    "People/V/Venomous Vera.md",
+    "People/T/Thorum Draesk.md",
+    "People/S/Stafford.md",
+    "People/S/Selwyn Mayfair.md",
+    "People/S/Samaster.md",
+    "People/S/Scarlet Vandran.md",
     "People/R/Rotwind.md",
+    "People/N/Null.md",
+    "People/N/Ninefingers.md",
+    "People/N/Nereza.md",
+    "People/N/Nash.md",
+    "People/M/Malrus Bloodbeard.md",
+    "People/M/Manshoon.md",
+    "Documents/From the desk of one Kepeshkmolik Dorn",
+    "LOOT",
+    "Untitled 14.base",
+    "Untitled 13.base",
+    "Documents/Letters taken from Rotwind's lair",
+    "Untitled 12.base",
+    "People/F",
+    "F",
+    "Pasted image 20260618215216.png",
     "Pasted image 20260611213519.png",
     "Pasted image 20260611213148.png",
-    "Master Timeline.md",
-    "People/B/Blightbreath.md",
-    "Documents/Bunny Note.md",
     "Pasted image 20260611202227.png",
     "Pasted image 20260611201712.png",
-    "People/A/Altesu Ethlu.md",
-    "People/A/Auntie Ethel.md",
-    "People/B/Bahamut.md",
-    "People/B/Bane.md",
-    "People/B/Bauble-eyed Bessie.md",
-    "People/B/Beorg the Ogre.md",
-    "People/B/Billie Vonner.md",
-    "People/B/Boo.md",
-    "People/C/Caer.md",
-    "People/C/Cazador Szarr.md",
-    "People/C/Cyr.md",
-    "People/E/Eleanor.md",
-    "People/D/Davna Skann.md",
     "People/I",
     "Pasted image 20260528201222.png",
     "Pasted image 20260528194558.png",
     "Pasted image 20260528194534.png",
     "Untitled 11.base",
-    "Untitled 10.base",
     "Pasted image 20260528194440.png",
-    "Untitled 9.base",
     "Untitled.canvas",
-    "Untitled 8.base",
-    "Untitled 7.base",
-    "Untitled 6.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
     "Groups/Political/Tymanther/Untitled.canvas",
     "Pasted image 20260430210735.png",
-    "Pasted image 20260430210011.png",
     "People/Summer Court/Untitled.canvas"
   ]
 }
