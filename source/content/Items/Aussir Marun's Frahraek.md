@@ -1,0 +1,1 @@
++1 Weapon. Aussir Marun's Frahraek can change its damage type to cold damage for 1 minute, 2/day

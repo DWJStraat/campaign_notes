@@ -1,0 +1,1 @@
+This well produces a special liquid which can fulfil different purposes. 1 day's worth produces 3 Bottles of Elven wine (2 GP a bottle). 3 days worth produces either 2 _Potions of Healing_ or 1 _Potion of Greater Healing_. 5 days worth produces the materials for 1 use of _Awaken_.

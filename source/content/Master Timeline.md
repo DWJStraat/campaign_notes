@@ -105,6 +105,7 @@ Vison 6
 Celwyn's dad died (gentle reposed)
 
 ## 7th of Flamerule, 1493
+
 [[Grand Duke Uldur Ravengard]] declares martial law, postponing elections
 
 ## 8th of Flamerule, 1493
@@ -115,7 +116,9 @@ Celwyn's dad died (gentle reposed)
 
 [[Rotwind]] wants to meet with [[Kepeshkmolik Dorn]].
 ### 10th
+
 [[Rotwind]] gives us the site of the fight against [[Vazuth]]
+
 Elections (POSTPONED)
 
 ### 11th

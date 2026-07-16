@@ -1,0 +1,1 @@
++1 Weapon. Daurgothoth's Atar can change its damage type to acid damage for 1 minute, 2/day. 
