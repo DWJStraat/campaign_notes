@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/E/Eleanor.md",
+                "file": "Unsorted notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eleanor"
+              "title": "Unsorted notes"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/E/Eleanor.md",
+                "file": "Unsorted notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eleanor"
+              "title": "Backlinks for Unsorted notes"
             }
           },
           {
@@ -184,14 +184,16 @@
   },
   "active": "46bb2c8a2c6ee902",
   "lastOpenFiles": [
+    "TODO.md",
+    "Unsorted notes.md",
+    "index.md",
+    "LOOT/Dragon Lair.md",
+    "People/E/Eleanor.md",
     "People/H/Harribak Eltan.md",
     "Groups/Political/Baldur's Gate/Patriar Families/Eltan/Eltan.md",
     "Communal Hoard.md",
     "Groups/Political/Baldur's Gate/Patriar Families/Dlusker/Zolana Dlusker.md",
-    "LOOT/Dragon Lair.md",
-    "Unsorted notes.md",
     "Master Timeline.md",
-    "index.md",
     "Untitled 1.base",
     "Items/Ennamorg, the Decrepit Death.md",
     "Items/Aussir Marun's Frahraek.md",
@@ -210,8 +212,6 @@
     "People/S/Sepitus Graham.md",
     "People/V/Valaina Talbot.md",
     "People/V/Vkriss Kaldir.md",
-    "People/V/Venomous Vera.md",
-    "People/T/Thorum Draesk.md",
     "Documents/From the desk of one Kepeshkmolik Dorn",
     "LOOT",
     "Untitled 14.base",
