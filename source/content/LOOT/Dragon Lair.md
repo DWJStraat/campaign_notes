@@ -1,3 +1,4 @@
+Acquired through the defeat of [[Vazuth]] and [[Rotwind]]
 # MAGIC
 
 ## POTIONS
