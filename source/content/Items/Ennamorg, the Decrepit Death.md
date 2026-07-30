@@ -10,6 +10,12 @@ The mace contains the soul of Ennamorg, granting it sentience. Ennamorg speaks D
 
  _Approval._ Ennamorg's trust and your favour with Null can unlock further abilities of the mace. Once appropriate, you gain favour, you can spend this on abilities that shall be revealed once the the favour necessary to unlock them becomes available.
 
+**The following abilities have been unlocked:**
+
+1 Favour - While attuned, you gain resistance to fire damage. 
+
+1 Favour - While attuned, you always have the _Animate Undead_ spell prepared, and you can cast it once without using a spell slot once per long rest.
+
 ---- 
 
 Currently, the Mace has been  used to put the following dragons to rest:

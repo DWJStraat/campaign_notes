@@ -1,8 +1,13 @@
 ![[Pasted image 20260212192045.png]]
 
-Dear [[Nereza]],
+Dear [[Nereza Morgan|Nereza]],
+
 After the death of our [[Fly on the wall]], we realised that subtlety was our friend in the infiltration of the organisation which [[Billie Vonner]] also got in touch with, aside from the [[Green Serpent]]. They are an organisation which operates in the shadows, and they have no need for the common thug as was proven by the execution of our associate. Still, one piece of information was revealed. They supposedly named themselves the [[Fangs of Talona|Fangs of (...)]] First, the highest degree of caution was applied, and I merely asked around and observed their presumed base of operations. Their daily schedules seemed to become more active at night, though activity was seen throughout the day as well, suggesting a strange pattern. People that had met the individual expected to be the leader of the organisation, described her as pale. These might draw someone to make an assumption, which I will leave to you to do.
+
 While this individual of note seems to be the leader of this shadowy organisation, there are multiple individuals involved. Estimates would suggest a number of about 4 to 7 at most. of these, one of them seems to be on equal footing. Accounts of a Clairvoyance Scroll seem to suggest that one individual shares the leadership, yet seems to be barely present as I have not matched their voice with any individual leaving the presumed base of operations. What does seem to leave the premises is a cloaked individual which is often rather hunched over. They walk on their bare feet at times and seem like a savage or wretch that'd fit in with the poor of the city. They most often leave their base of operations out of all individuals presumed to be involved.
+
 Strange inhuman sounds have also been heard coming from the base of operations. Sounds that would suggest an inhuman creature, but not very audible beyond people walking close by. And as a final note, they have often had a herbalist visit them, an older woman who seems to be bringing remedies of a strange kind to them, though I have not been able to specifically asses what they are, as she seems to be remarkably perceptive to my attempts at delving further into her herbalist business.
+
 Sincerely,
+
 [[a deeply dug-in mole]]

@@ -43,7 +43,7 @@ Acquired through the defeat of [[Vazuth]] and [[Rotwind]]
 
 ## MISC
 
-❗Pair of Sending Stones
+🛡️Pair of Sending Stones -> One went to Stafford, the other to Martha Durinbold
 
 ❗Pair of Sending Stones
 

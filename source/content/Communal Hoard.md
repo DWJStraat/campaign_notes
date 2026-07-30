@@ -26,9 +26,8 @@ Dagger, messily inscribed with [[Aussir Marun's Frahraek]]
 
 Pair of Sending Stones
 
-Pair of Sending Stones
-
 [[Elven Well]]
+
 Wand of Web
 
 # NONMAGIC

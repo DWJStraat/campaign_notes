@@ -1,14 +1,25 @@
-Intercept the plague carriers
+Interrogate the dead [[Altesu Ethlu]]
 
-Rescue Lisax [[Lisax]] from the Sea Tower.
+Interrogate the captured ogre
 
-Expose [[Dlusker]]'s ties to the [[Fangs of Talona]]
+Investigate the Caldwell Vampire
 
-Check in on hideout progress (low priority)
+Figure out where the Vkriss dragonborn went with the sample of the Living Dragon Plague
 
-[[Stafford]]'s Whisper Thing
+Kill [[Wendell Roseberg]]
 
-Check in on the Skanns
+Discover [[Scarlet Vandran]]'s background
 
-Investigate if [[Luumbac Sullasar]] and [[Sepitus Graham]] are doppelgangers
+Slay the fiend [[Salrahn]]
+
+Talk to [[Cyr]] about our discoveries 
+
+Give sending stone to [[Caer]] and share updates
+
+Talk to the dwarves (we were due to give them an update 6 days ago !) -> Contact [[Thyram]]
+
+
+
+
+
 
